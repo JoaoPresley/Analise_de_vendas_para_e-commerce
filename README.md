@@ -21,7 +21,7 @@ Abaixo, apresentamos os principais indicadores de performance (KPIs) extraídos 
 
 Galeria de Gráficos
 <details>
-<summary> __📸 Clique para expandir e visualizar os 5 gráficos principais__</summary>
+<summary> <h4>📸 Clique para expandir e visualizar os 5 gráficos principais</h4></summary>
 
 
 <div align="center">
@@ -47,7 +47,8 @@ Galeria de Gráficos
 </div>
 </details>
 
-🛠️ Como Executar
+---
+## 🛠️ Como Executar
 Clone o repositório:
 
 * Bash
