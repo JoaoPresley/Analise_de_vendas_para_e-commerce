@@ -21,7 +21,7 @@ Abaixo, apresentamos os principais indicadores de performance (KPIs) extraídos 
 
 Galeria de Gráficos
 <details>
-<summary>📸 Clique para expandir e visualizar os 5 gráficos principais</summary>
+<summary> __📸 Clique para expandir e visualizar os 5 gráficos principais__</summary>
 
 
 <div align="center">
